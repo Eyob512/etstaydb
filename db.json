@@ -1,22 +1,22 @@
 {
     "data": [
         {
-            "hotelId": "436827",
-            "termsAndConditions": "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. In response to Coronavirus (COVID-19), additional safety and sanitation measures are in effect at this property. A damage deposit of USD 50 is required on arrival. This will be collected by credit card. You should be reimbursed on check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property. Please note, there is a resort fee that includes: • All local, long distance and international phone calls • Premium high-speed wireless internet access for unlimited devices • An eco-friendly, collapsible 16 oz. water bottle to use at the hotel’s water filtration stations • Unlimited use of our Business Center • Unlimited use of our 24-hour Fitness Center with treadmills, bikes, elliptical machines and free weights",
+            "hotelId": "28906",
+            "termsAndConditions": "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property.",
             "roomTypes": [
                 {
-                    "roomTypeId": "GQZTMOBSG4YTE",
+                    "roomTypeId": "GI4DSMBWGI4A",
                     "rates": [
                         {
-                            "rateId": "1_GQZTMOBSG56DEMBSGMWTCMJNGIYHYMRQGIZS2MJRFUZDS7BRPQYTELBZPRKVG7CHKFNFITKPIJJUONCZKRCUSWSTI5ETIVCTJRJFCR2BLFCECTKCKFCU2MSEI5HFEWKHJEZVIQ2NKM3UQRKZKREU4WSVI42DEVCLLBNFCTBULFDDMTKCIRDVCWSUJVHUEU2HGRJFMS2VLF6FKU2EPR2HEYLWMVWGK4RRPR6DGMRRG4XDQM34PRBE6",
-                            "name": "Guest Room with Two Double Beds - High Floor - Non-refundable",
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DUSNCDI5GUUVCHKUZFGNCNJJNEOQKZIRAU2QSEI5ETIRCTJVBFOR2JGRDDMTKKKJDVCWSUKFHEUVKHKU2FMNSNGI3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMJYGU3C4NBSPR6EETY",
+                            "name": "Double Room with Two Double Beds - Hearing Accessible - Roll in Shower",
                             "maxOccupancy": 4,
                             "boardType": "BO",
                             "boardName": "Bed Only",
                             "retailRate": {
                                 "total": [
                                     {
-                                        "amount": 3217.83,
+                                        "amount": 1856.42,
                                         "currency": "USD"
                                     }
                                 ],
@@ -31,7 +31,7 @@
                                     }
                                 ],
                                 "hotelRemarks": [
-                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. In response to Coronavirus (COVID-19), additional safety and sanitation measures are in effect at this property. A damage deposit of USD 50 is required on arrival. This will be collected by credit card. You should be reimbursed on check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property. Please note, there is a resort fee that includes: • All local, long distance and international phone calls • Premium high-speed wireless internet access for unlimited devices • An eco-friendly, collapsible 16 oz. water bottle to use at the hotel’s water filtration stations • Unlimited use of our Business Center • Unlimited use of our 24-hour Fitness Center with treadmills, bikes, elliptical machines and free weights"
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
                                 ],
                                 "refundableTag": "NRFN"
                             }
@@ -39,18 +39,18 @@
                     ]
                 },
                 {
-                    "roomTypeId": "GQZTMOBSG4YTE",
+                    "roomTypeId": "GI4DSMBWGAYQ",
                     "rates": [
                         {
-                            "rateId": "1_GQZTMOBSG56DEMBSGMWTCMJNGIYHYMRQGIZS2MJRFUZDS7BRPQYTELBZPRKVG7CHKFNFITKPIJJUONCZKRCUSWSUI5CVSVCDJRJFCR2BLFCECTKCKFCU2MSEI5HFEWKHJEZVIQ2NKM3UORK2IRJU4SSTI5GVSRCBJ5BTOR2CKBKECWC2KFCU2MSEI5HFEWKHJEZVGR2WJNKHYVKTIR6HI4TBOZSWYZLSGF6HYNBSGA2S4NJRPQZDAMRTFUYTCLJRHAQDAMB2GAYDUMBQPRBE6",
-                            "name": "Guest Room with Two Double Beds - High Floor",
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DUCWKTI5GUUVCHKUZFGNCNJJNEOQKZIRAU2QSEI5ETIRCTJVBFOR2BLFLDMTKKKJDVCWSUKFHEUVKHKU2FMNSNGI3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMJYGU3C4NBSPR6EETY",
+                            "name": "Room with Two Double Beds",
                             "maxOccupancy": 4,
                             "boardType": "BO",
                             "boardName": "Bed Only",
                             "retailRate": {
                                 "total": [
                                     {
-                                        "amount": 4205.51,
+                                        "amount": 1856.42,
                                         "currency": "USD"
                                     }
                                 ],
@@ -59,20 +59,122 @@
                             "cancellationPolicies": {
                                 "cancelPolicyInfos": [
                                     {
-                                        "cancelTime": "2023-11-17 23:59:59",
+                                        "cancelTime": "2023-11-16",
+                                        "amount": 100,
+                                        "type": "percentage"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "NRFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGMYA",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DU2WKDI5GUUVCHLEZFGNCNJJKEOQKZIRAU2QSEI5ETIRCTJVBFOR2NLFDDMTKKKJDVCWSUKFHEUVKHKU2FMNSNGI3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMJYGY4C4NRUPR6EETY",
+                            "name": "King Room with Disability Access - Hearing Accessible",
+                            "maxOccupancy": 3,
+                            "boardType": "BO",
+                            "boardName": "Bed Only",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 1868.64,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-16",
+                                        "amount": 100,
+                                        "type": "percentage"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "NRFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGA2A",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DUCMSDI5GUUVCHLEZFGNCNJJKEOQKZIRAU2QSEI5ETIRCTJVBFOR2BGJDDMTKKKJDVCWSUKFHEUVKHKU2FMNSNGI3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMJYGY4C4NRUPR6EETY",
+                            "name": "Room with One King Bed ",
+                            "maxOccupancy": 3,
+                            "boardType": "BO",
+                            "boardName": "Bed Only",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 1868.64,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-16",
+                                        "amount": 100,
+                                        "type": "percentage"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "NRFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGAYQ",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DUCWKTI5GUUVKHKFMVGNCOLJKEOQKZIRAU2QSEI5ETIRCTJVBFOR2BLFLDMTKSK5DVSWSEJ5HEEU2HIEZUMNSNGI3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMJZGYZC4NZZPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBE6",
+                            "name": "Room with Two Double Beds",
+                            "maxOccupancy": 4,
+                            "boardType": "BO",
+                            "boardName": "Bed Only",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 1962.79,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
                                         "amount": 0,
                                         "currency": "USD",
                                         "type": "amount"
                                     },
                                     {
-                                        "cancelTime": "2023-11-18 00:00:00",
-                                        "amount": 3574.53,
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 185.74,
                                         "currency": "USD",
                                         "type": "amount"
                                     }
                                 ],
                                 "hotelRemarks": [
-                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. In response to Coronavirus (COVID-19), additional safety and sanitation measures are in effect at this property. A damage deposit of USD 50 is required on arrival. This will be collected by credit card. You should be reimbursed on check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property. Please note, there is a resort fee that includes: • All local, long distance and international phone calls • Premium high-speed wireless internet access for unlimited devices • An eco-friendly, collapsible 16 oz. water bottle to use at the hotel’s water filtration stations • Unlimited use of our Business Center • Unlimited use of our 24-hour Fitness Center with treadmills, bikes, elliptical machines and free weights"
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
                                 ],
                                 "refundableTag": "RFN"
                             }
@@ -80,18 +182,18 @@
                     ]
                 },
                 {
-                    "roomTypeId": "GQZTMOBSG4YTE",
+                    "roomTypeId": "GI4DSMBWGI4A",
                     "rates": [
                         {
-                            "rateId": "1_GQZTMOBSG56DEMBSGMWTCMJNGIYHYMRQGIZS2MJRFUZDS7BRPQYTELBZPRKVG7CHKFNFITKPIJJUONCZKRCUSWSUI5MTEVCDJRJFCR2BLFCECTKCKFCU2MSEI5HFEWKHJEZVIQ2NKM3UORK2IRJU4SSTI5GVSRCBJ5BTOR2CKBKEGWC2KFCU2MSEI5HFEWKHJEZVGR2WJNKHYVKTIR6HI4TBOZSWYZLSGF6HYNBYGYZC4MZUPQZDAMRTFUYTCLJRHAQDAMB2GAYDUMBQPRBES",
-                            "name": "Guest Room with Two Double Beds - High Floor",
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DUSNCDI5GUUVKHKFMVGNCOLJKEOQKZIRAU2QSEI5ETIRCTJVBFOR2JGRDDMTKSK5DVSWSEJ5HEEU2HIEZUMNSNGI3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMJZGYZC4NZZPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBE6",
+                            "name": "Double Room with Two Double Beds - Hearing Accessible - Roll in Shower",
                             "maxOccupancy": 4,
-                            "boardType": "BI",
-                            "boardName": "Breakfast Included",
+                            "boardType": "BO",
+                            "boardName": "Bed Only",
                             "retailRate": {
                                 "total": [
                                     {
-                                        "amount": 4862.34,
+                                        "amount": 1962.79,
                                         "currency": "USD"
                                     }
                                 ],
@@ -100,20 +202,1242 @@
                             "cancellationPolicies": {
                                 "cancelPolicyInfos": [
                                     {
-                                        "cancelTime": "2023-11-17 23:59:59",
+                                        "cancelTime": "2023-11-19 23:59:59",
                                         "amount": 0,
                                         "currency": "USD",
                                         "type": "amount"
                                     },
                                     {
-                                        "cancelTime": "2023-11-18 00:00:00",
-                                        "amount": 4194.18,
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 185.74,
                                         "currency": "USD",
                                         "type": "amount"
                                     }
                                 ],
                                 "hotelRemarks": [
-                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. In response to Coronavirus (COVID-19), additional safety and sanitation measures are in effect at this property. A damage deposit of USD 50 is required on arrival. This will be collected by credit card. You should be reimbursed on check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property. Please note, there is a resort fee that includes: • All local, long distance and international phone calls • Premium high-speed wireless internet access for unlimited devices • An eco-friendly, collapsible 16 oz. water bottle to use at the hotel’s water filtration stations • Unlimited use of our Business Center • Unlimited use of our 24-hour Fitness Center with treadmills, bikes, elliptical machines and free weights"
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGMYA",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DU2WKDI5GUUVKHKVNEGNCNLJIUOQKZIRAU2QSEI5ETIRCTJVBFOR2NLFDDMTKSK5DVSWSEJ5HEEU2HIEZUMNSNGI3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMJZG42S4NZYPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBE6",
+                            "name": "King Room with Disability Access - Hearing Accessible",
+                            "maxOccupancy": 3,
+                            "boardType": "BO",
+                            "boardName": "Bed Only",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 1975.78,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 187.1,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGA2A",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DUCMSDI5GUUVKHKVNEGNCNLJIUOQKZIRAU2QSEI5ETIRCTJVBFOR2BGJDDMTKSK5DVSWSEJ5HEEU2HIEZUMNSNGI3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMJZG42S4NZYPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBE6",
+                            "name": "Room with One King Bed ",
+                            "maxOccupancy": 3,
+                            "boardType": "BO",
+                            "boardName": "Bed Only",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 1975.78,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 187.1,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGAYQ",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DUCWKTI5GUUVSHLEZUGNCOKJNEOQKZIRAU2QSEI5ETIRCTJVBFOR2BLFLDMTKKKJDVCWSUKFHEUVKHKU2FMNSOIM3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMRRGE3C4MZXPR6EETY",
+                            "name": "Room with Two Double Beds",
+                            "maxOccupancy": 4,
+                            "boardType": "BO",
+                            "boardName": "Bed Only",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 2116.37,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-16",
+                                        "amount": 100,
+                                        "type": "percentage"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "NRFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGI4A",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DUSNCDI5GUUVSHLEZUGNCOKJNEOQKZIRAU2QSEI5ETIRCTJVBFOR2JGRDDMTKKKJDVCWSUKFHEUVKHKU2FMNSOIM3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMRRGE3C4MZXPR6EETY",
+                            "name": "Double Room with Two Double Beds - Hearing Accessible - Roll in Shower",
+                            "maxOccupancy": 4,
+                            "boardType": "BO",
+                            "boardName": "Bed Only",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 2116.37,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-16",
+                                        "amount": 100,
+                                        "type": "percentage"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "NRFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGI4A",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DUSNCDI5GUUV2HLEZUGNCOLJKEOQKZIRAU2QSEI5ETIRCTJVBFOR2JGRDDMTKSK5DVSWSEJ5HEEU2HIEZUMNSOIM3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMRSGM4S4MZSPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBE6",
+                            "name": "Double Room with Two Double Beds - Hearing Accessible - Roll in Shower",
+                            "maxOccupancy": 4,
+                            "boardType": "BO",
+                            "boardName": "Bed Only",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 2239.32,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 214.73,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGAYQ",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DUCWKTI5GUUV2HLEZUGNCOLJKEOQKZIRAU2QSEI5ETIRCTJVBFOR2BLFLDMTKSK5DVSWSEJ5HEEU2HIEZUMNSOIM3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMRSGM4S4MZSPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBE6",
+                            "name": "Room with Two Double Beds",
+                            "maxOccupancy": 4,
+                            "boardType": "BO",
+                            "boardName": "Bed Only",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 2239.32,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 214.73,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGQYQ",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DVCWKTI5GUUWCHJFNEGNCNLJIUOQKZIRAU2QSEI5ETIRCTJVBFOR2RLFLDMTKSK5DVSWSEJ5HEEU2HIEZUMNSNGI3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMRTGA3S4NRTPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBE6",
+                            "name": "Corner King Room",
+                            "maxOccupancy": 3,
+                            "boardType": "BO",
+                            "boardName": "Bed Only",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 2307.63,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 221.89,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGQ2A",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DVCMSDI5GUUWKIIEZEGNCOLJJUOQKZIRAU2QSEI5ETIRCTJVBFOR2RGJDDMTKKKJDVCWSUKFHEUVKHKU2FMNSNGI3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMRVGA3S4MRVPR6EETY",
+                            "name": "Junior King Suite",
+                            "maxOccupancy": 3,
+                            "boardType": "BO",
+                            "boardName": "Bed Only",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 2507.25,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-16",
+                                        "amount": 100,
+                                        "type": "percentage"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "NRFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGAYQ",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DUCWKTI5GUUWSIIFMVGNCOLJKEOQKZIRAU2QSEI5ETIRCTJVBFOR2BLFLDMTKSK5DVSWSEJ5HEEU2HIEZUMNSNGI3UORSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMRWGI3C4NBZPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBES",
+                            "name": "Room with Two Double Beds",
+                            "maxOccupancy": 4,
+                            "boardType": "BI",
+                            "boardName": "Breakfast Included",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 2626.49,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 255.31,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGI4A",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DUSNCDI5GUUWSIIFMVGNCOLJKEOQKZIRAU2QSEI5ETIRCTJVBFOR2JGRDDMTKSK5DVSWSEJ5HEEU2HIEZUMNSNGI3UORSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMRWGI3C4NBZPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBES",
+                            "name": "Double Room with Two Double Beds - Hearing Accessible - Roll in Shower",
+                            "maxOccupancy": 4,
+                            "boardType": "BI",
+                            "boardName": "Breakfast Included",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 2626.49,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 255.31,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGA2A",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DUCMSDI5GUUWSIIVNEGNCNLJIUOQKZIRAU2QSEI5ETIRCTJVBFOR2BGJDDMTKSK5DVSWSEJ5HEEU2HIEZUMNSNGI3UORSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMRWGM4S4NBXPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBES",
+                            "name": "Room with One King Bed ",
+                            "maxOccupancy": 3,
+                            "boardType": "BI",
+                            "boardName": "Breakfast Included",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 2639.47,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 256.67,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGMYA",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DU2WKDI5GUUWSIIVNEGNCNLJIUOQKZIRAU2QSEI5ETIRCTJVBFOR2NLFDDMTKSK5DVSWSEJ5HEEU2HIEZUMNSNGI3UORSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMRWGM4S4NBXPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBES",
+                            "name": "King Room with Disability Access - Hearing Accessible",
+                            "maxOccupancy": 3,
+                            "boardType": "BI",
+                            "boardName": "Breakfast Included",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 2639.47,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 256.67,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGQ2A",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DVCMSDI5GVEUKHIEZEGNCPJJNEOQKZIRAU2QSEI5ETIRCTJVBFOR2RGJDDMTKSK5DVSWSEJ5HEEU2HIEZUMNSNGI3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMRWGU2S4MBYPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBE6",
+                            "name": "Junior King Suite",
+                            "maxOccupancy": 3,
+                            "boardType": "BO",
+                            "boardName": "Bed Only",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 2655.08,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 258.31,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGQ3Q",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DVCM2TI5GVEUKHKVMVGNCOLJLEOQKZIRAU2QSEI5ETIRCTJVBFOR2RGNLDMTKKKJDVCWSUKFHEUVKHKU2FMNSNGI3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMRXGEZC4NJUPR6EETY",
+                            "name": "Superior King Room - High Floor",
+                            "maxOccupancy": 3,
+                            "boardType": "BO",
+                            "boardName": "Bed Only",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 2712.54,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-16",
+                                        "amount": 100,
+                                        "type": "percentage"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "NRFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGQZA",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DVCWSDI5GVEUKIIVNFGNCPIJNEOQKZIRAU2QSEI5ETIRCTJVBFOR2RLJDDMTKSK5DVSWSEJ5HEEU2HIEZUMNSNGI3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMRXGY2C4MZUPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBE6",
+                            "name": "Corner King Room with View",
+                            "maxOccupancy": 3,
+                            "boardType": "BO",
+                            "boardName": "Bed Only",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 2764.34,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 269.76,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGQ2Q",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DVCMSTI5GVEUKIIU2EGNCPJJJEOQKZIRAU2QSEI5ETIRCTJVBFOR2RGJLDMTKKKJDVCWSUKFHEUVKHKU2FMNSNGI3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMRXG4YC4NJRPR6EETY",
+                            "name": "Superior Double Room with Two Double Beds - High Floor",
+                            "maxOccupancy": 4,
+                            "boardType": "BO",
+                            "boardName": "Bed Only",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 2770.51,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-16",
+                                        "amount": 100,
+                                        "type": "percentage"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "NRFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGQ3A",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DVCM2DI5GVEUSHJUZEGNCNKJJUOQKZIRAU2QSEI5ETIRCTJVBFOR2RGNDDMTKKKJDVCWSUKFHEUVKHKU2FMNSNGI3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMRYGEZS4OJRPR6EETY",
+                            "name": "Superior Corner King Room - High Floor",
+                            "maxOccupancy": 3,
+                            "boardType": "BO",
+                            "boardName": "Bed Only",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 2813.91,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-16",
+                                        "amount": 100,
+                                        "type": "percentage"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "NRFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGQ3Q",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DVCM2TI5GVEUSIIFNEGNCOLJJEOQKZIRAU2QSEI5ETIRCTJVBFOR2RGNLDMTKSK5DVSWSEJ5HEEU2HIEZUMNSNGI3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMRYG4ZS4NJQPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBE6",
+                            "name": "Superior King Room - High Floor",
+                            "maxOccupancy": 3,
+                            "boardType": "BO",
+                            "boardName": "Bed Only",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 2873.5,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 281.21,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGQ2Q",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DVCMSTI5GVEU2HJVNEGNCPIJLEOQKZIRAU2QSEI5ETIRCTJVBFOR2RGJLDMTKSK5DVSWSEJ5HEEU2HIEZUMNSNGI3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMRZGM2S4MJTPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBE6",
+                            "name": "Superior Double Room with Two Double Beds - High Floor",
+                            "maxOccupancy": 4,
+                            "boardType": "BO",
+                            "boardName": "Bed Only",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 2935.13,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 287.67,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGQYQ",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DVCWKTI5GVEU2HLFNEGNCNLJIUOQKZIRAU2QSEI5ETIRCTJVBFOR2RLFLDMTKSK5DVSWSEJ5HEEU2HIEZUMNSNGI3UORSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMRZG4YS4MZTPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBES",
+                            "name": "Corner King Room",
+                            "maxOccupancy": 3,
+                            "boardType": "BI",
+                            "boardName": "Breakfast Included",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 2971.33,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 291.46,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGQ3A",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DVCM2DI5GVEU2HGRMUGNCOIJJUOQKZIRAU2QSEI5ETIRCTJVBFOR2RGNDDMTKSK5DVSWSEJ5HEEU2HIEZUMNSNGI3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMRZHAYS4MZQPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBE6",
+                            "name": "Superior Corner King Room - High Floor",
+                            "maxOccupancy": 3,
+                            "boardType": "BO",
+                            "boardName": "Bed Only",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 2981.3,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 292.51,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGQ2Q",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DVCMSTI5GVEVCHIVMUGNCOIJJEOQKZIRAU2QSEI5ETIRCTJVBFOR2RGJLDMTKKKJDVCWSUKFHEUVKHKU2FMNSOIM3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMZQGMYC4NBWPR6EETY",
+                            "name": "Superior Double Room with Two Double Beds - High Floor",
+                            "maxOccupancy": 4,
+                            "boardType": "BO",
+                            "boardName": "Bed Only",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 3030.46,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-16",
+                                        "amount": 100,
+                                        "type": "percentage"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "NRFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGI4A",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DUSNCDI5GVEVCIIEZUGNCOLJKEOQKZIRAU2QSEI5ETIRCTJVBFOR2JGRDDMTKSK5DVSWSEJ5HEEU2HIEZUMNSOIM3UORSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMZRGI2C4MRVPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBES",
+                            "name": "Double Room with Two Double Beds - Hearing Accessible - Roll in Shower",
+                            "maxOccupancy": 4,
+                            "boardType": "BI",
+                            "boardName": "Breakfast Included",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 3124.25,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 307.49,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGAYQ",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DUCWKTI5GVEVCIIEZUGNCOLJKEOQKZIRAU2QSEI5ETIRCTJVBFOR2BLFLDMTKSK5DVSWSEJ5HEEU2HIEZUMNSOIM3UORSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMZRGI2C4MRVPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBES",
+                            "name": "Room with Two Double Beds",
+                            "maxOccupancy": 4,
+                            "boardType": "BI",
+                            "boardName": "Breakfast Included",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 3124.25,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 307.49,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGQ2Q",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DVCMSTI5GVEVKHKUZVGNCPIJLEOQKZIRAU2QSEI5ETIRCTJVBFOR2RGJLDMTKSK5DVSWSEJ5HEEU2HIEZUMNSOIM3UOSSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMZSGEYS4NRXPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBE6",
+                            "name": "Superior Double Room with Two Double Beds - High Floor",
+                            "maxOccupancy": 4,
+                            "boardType": "BO",
+                            "boardName": "Bed Only",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 3211.67,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 316.65,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGQ2A",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DVCMSDI5GVEVSHKEZEGNCPJJNEOQKZIRAU2QSEI5ETIRCTJVBFOR2RGJDDMTKSK5DVSWSEJ5HEEU2HIEZUMNSNGI3UORSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMZTGE4C4NZYPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBES",
+                            "name": "Junior King Suite",
+                            "maxOccupancy": 3,
+                            "boardType": "BI",
+                            "boardName": "Breakfast Included",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 3318.78,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 327.88,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGQZA",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DVCWSDI5GVEV2HJVNFGNCPJJIUOQKZIRAU2QSEI5ETIRCTJVBFOR2RLJDDMTKSK5DVSWSEJ5HEEU2HIEZUMNSNGI3UORSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMZUGI4C4MBVPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBES",
+                            "name": "Corner King Room with View",
+                            "maxOccupancy": 3,
+                            "boardType": "BI",
+                            "boardName": "Breakfast Included",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 3428.05,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 339.33,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGQ3Q",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DVCM2TI5GVEWCHJFNEGNCOLJJEOQKZIRAU2QSEI5ETIRCTJVBFOR2RGNLDMTKSK5DVSWSEJ5HEEU2HIEZUMNSNGI3UORSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMZVGM3S4MRQPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBES",
+                            "name": "Superior King Room - High Floor",
+                            "maxOccupancy": 3,
+                            "boardType": "BI",
+                            "boardName": "Breakfast Included",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 3537.2,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 350.78,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGQ2Q",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DVCMSTI5GVEWCHGRNEGNCPIJLEOQKZIRAU2QSEI5ETIRCTJVBFOR2RGJLDMTKSK5DVSWSEJ5HEEU2HIEZUMNSNGI3UORSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMZVHE4C4OBTPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBES",
+                            "name": "Superior Double Room with Two Double Beds - High Floor",
+                            "maxOccupancy": 4,
+                            "boardType": "BI",
+                            "boardName": "Breakfast Included",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 3598.83,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 357.24,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGQ3A",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DVCM2DI5GVEWKHIVMUGNCOIJJUOQKZIRAU2QSEI5ETIRCTJVBFOR2RGNDDMTKSK5DVSWSEJ5HEEU2HIEZUMNSNGI3UORSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYMZWGQ2S4MBQPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBES",
+                            "name": "Superior Corner King Room - High Floor",
+                            "maxOccupancy": 3,
+                            "boardType": "BI",
+                            "boardName": "Breakfast Included",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 3645,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 362.08,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
+                                ],
+                                "refundableTag": "RFN"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "roomTypeId": "GI4DSMBWGQ2Q",
+                    "rates": [
+                        {
+                            "rateId": "1_GI4DSMBWPQZDAMRTFUYTCLJSGB6DEMBSGMWTCMJNGI4XYML4GEZCYOL4KVJXYR2JGRCFGTKCK5DVCMSTI5GVUUSHGQZVGNCPIJLEOQKZIRAU2QSEI5ETIRCTJVBFOR2RGJLDMTKSK5DVSWSEJ5HEEU2HIEZUMNSOIM3UORSQKRAUSWSTJBATIVCBJZJEIS2WJJIXYVKTIR6HI4TBOZSWYZLSGF6HYNBQHE3C4NRQPQZDAMRTFUYTCLJSGAQDAMB2GAYDUMBQPRBES",
+                            "name": "Superior Double Room with Two Double Beds - High Floor",
+                            "maxOccupancy": 4,
+                            "boardType": "BI",
+                            "boardName": "Breakfast Included",
+                            "retailRate": {
+                                "total": [
+                                    {
+                                        "amount": 4096.6,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "taxesAndFees": null
+                            },
+                            "cancellationPolicies": {
+                                "cancelPolicyInfos": [
+                                    {
+                                        "cancelTime": "2023-11-19 23:59:59",
+                                        "amount": 0,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    },
+                                    {
+                                        "cancelTime": "2023-11-20 00:00:00",
+                                        "amount": 409.41,
+                                        "currency": "USD",
+                                        "type": "amount"
+                                    }
+                                ],
+                                "hotelRemarks": [
+                                    "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply. Swimming pool #1 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 Swimming pool #2 is closed from Tue 31 Oct 2023 until Mon 29 Apr 2024 A damage deposit of USD 1000 is required on arrival. This will be collected by credit card. You should be reimbursed within 7 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property."
                                 ],
                                 "refundableTag": "RFN"
                             }
